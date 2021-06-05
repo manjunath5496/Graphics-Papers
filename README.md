@@ -160,7 +160,7 @@ Integrating Machine Learning into Visual Analytics</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(86).pdf" style="text-decoration:none;">A robust projection plane selection strategy for UAV image stitching</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(87).pdf" style="text-decoration:none;">Mononizing Binocular Videos</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(88).pdf" style="text-decoration:none;">Routing Tradeoffs in Dynamic Peer­to­peer Networks</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(88).pdf" style="text-decoration:none;">Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(89).pdf" style="text-decoration:none;">Deep Iterative Frame Interpolation for Full-frame Video Stabilization</a></li>
   
   
@@ -221,7 +221,7 @@ Panorama Stitching</a></li>
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(116).pdf" style="text-decoration:none;">PaintersView: Automatic Suggestion of Optimal Viewpoints for 3D Texture Painting</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(117).pdf" style="text-decoration:none;">Usage of Artificial Intelligence in Today's Graphic Design</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(118).pdf" style="text-decoration:none;">Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies</a></li>  
    
@@ -229,8 +229,7 @@ Panorama Stitching</a></li>
   
    <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(120).pdf" style="text-decoration:none;">A Survey on Image Matting Techniques</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
-of an Email Pseudonym Server</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(121).pdf" style="text-decoration:none;">Artificial Intelligence in Computer Graphics: A Constructionist Approach</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(122).pdf" style="text-decoration:none;">Deep Relightable Textures </a></li>  
      
