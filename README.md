@@ -168,77 +168,73 @@ Integrating Machine Learning into Visual Analytics</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(91).pdf" style="text-decoration:none;">Colorblind-Shareable Videos by Synthesizing Temporal-Coherent Polynomial Coefficients</a></li>
 
  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(92).pdf" style="text-decoration:none;">Globally consistent alignment for planar mosaicking via topology analysis</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(93).pdf" style="text-decoration:none;"> Improving Integer Security for Systems with KINT</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(94).pdf" style="text-decoration:none;">Ksplice: Automatic Rebootless Kernel Updates</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(93).pdf" style="text-decoration:none;"> Handheld Mobile Photography in Very Low Light</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(94).pdf" style="text-decoration:none;">Multi-Theme Generative Adversarial Terrain Amplification</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(95).pdf" style="text-decoration:none;">Smartcrawler: A Two-stage Crawler For Efficient Search Result</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(95).pdf" style="text-decoration:none;">A closed-form solution for multi-view color correction with gradient preservation</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(96).pdf" style="text-decoration:none;">Non-scalable locks are dangerous</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(96).pdf" style="text-decoration:none;">Distortion-Free Wide-Angle Portraits on Camera Phones</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(97).pdf" style="text-decoration:none;">An Analysis of Linux Scalability to Many Cores</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(97).pdf" style="text-decoration:none;">State of the Art Report on Video-Based Graphics and Video Visualization</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(98).pdf" style="text-decoration:none;">Software fault isolation with
-API integrity and multi-principal modules</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(98).pdf" style="text-decoration:none;">Arbitrary Style Transfer Using Neurally-Guided Patch-Based Synthesis</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(99).pdf" style="text-decoration:none;">M&M: A Passive Toolkit for Measuring, Correlating, and Tracking Path Characteristics</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(99).pdf" style="text-decoration:none;">Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(100).pdf" style="text-decoration:none;">Cache Craftiness for Fast Multicore Key-Value Storage</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(100).pdf" style="text-decoration:none;">Neural State Machine for Character-Scene Interactions</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(101).pdf" style="text-decoration:none;">Practical and effective sandboxing for non-root users</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(101).pdf" style="text-decoration:none;">The Relightables: Volumetric Performance Capture of Humans with Realistic Relighting</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(102).pdf" style="text-decoration:none;">Extracting and optimizing formally verified code for systems programming</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(102).pdf" style="text-decoration:none;">MoGlow: Probabilistic and Controllable Motion Synthesis Using Normalising Flows</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(103).pdf" style="text-decoration:none;">Optimizing MapReduce for Multicore Architectures </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(103).pdf" style="text-decoration:none;">Deep Inverse Halftoning via Progressively
+Residual Learning </a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(104).pdf" style="text-decoration:none;">MultiQ: Automated Detection of
-Multiple Bottleneck Capacities Along a Path</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(104).pdf" style="text-decoration:none;">A Unified Framework for Street-View
+Panorama Stitching</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(105).pdf" style="text-decoration:none;">Towards Multiverse Databases</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(105).pdf" style="text-decoration:none;">Example-driven Virtual Cinematography by Learning Camera Behaviors</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(106).pdf" style="text-decoration:none;">Optimizations for Performant Multiverse Databases</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(106).pdf" style="text-decoration:none;">Single Image Portrait Relighting via Explicit Multiple Reflectance Channel Modeling</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(107).pdf" style="text-decoration:none;">Multiverse Databases for Secure Web Applications</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(108).pdf" style="text-decoration:none;">Building web applications on top of encrypted data using Mylar</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(109).pdf" style="text-decoration:none;">Nail: A practical tool for parsing and generating data formats</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(110).pdf" style="text-decoration:none;">NATRON: Overlay Routing to Oblivious Destinations </a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(111).pdf" style="text-decoration:none;">Parallel Execution for Conflicting Transactions</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(107).pdf" style="text-decoration:none;">Semantic Photo Manipulation with a Generative Image Prior</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(112).pdf" style="text-decoration:none;">An O(1) algorithm for implementing the LFU
-cache eviction scheme</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(108).pdf" style="text-decoration:none;">Shadow Inpainting and Removal Using Generative Adversarial Networks with Slice Convolutions</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(113).pdf" style="text-decoration:none;">Scalable Fault Tolerance for High-Performance Streaming Dataflow</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(109).pdf" style="text-decoration:none;">Deferred Neural Lighting: Free-viewpoint Relighting from Unstructured Photographs</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(114).pdf" style="text-decoration:none;">Noria: A New Take on Fast Web Application Backends</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(115).pdf" style="text-decoration:none;">Noria: dynamic, partially-stateful data-flow
-for high-performance web applications</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(110).pdf" style="text-decoration:none;">The Face of Art: Landmark Detection and Geometric Style in Portraits </a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(116).pdf" style="text-decoration:none;">Dynamic, partially-stateful data-flow for
-high-performance Web applications</a></li>   
+<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(111).pdf" style="text-decoration:none;">Stereo Magnification: Learning view synthesis using multiplane images</a></li> 
+  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(112).pdf" style="text-decoration:none;">Blind Image Super-Resolution with Spatially Variant Degradations</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(113).pdf" style="text-decoration:none;">Single Image Portrait Relighting</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(114).pdf" style="text-decoration:none;">One Shot 3D Photography</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(115).pdf" style="text-decoration:none;">Light Stage Super-Resolution: Continuous High-Frequency Relighting</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(116).pdf" style="text-decoration:none;">PaintersView: Automatic Suggestion of Optimal Viewpoints for 3D Texture Painting</a></li>   
    
    <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(117).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(118).pdf" style="text-decoration:none;">Notary: A Device for Secure Transaction Approval</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(118).pdf" style="text-decoration:none;">Hyperparameter Optimization in Black-box Image Processing using Differentiable Proxies</a></li>  
    
-  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(119).pdf" style="text-decoration:none;">Large Scale Unit Testing for Go Programming Language Packages</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(119).pdf" style="text-decoration:none;">Globally consistent alignment for mosaicking aerial images</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(120).pdf" style="text-decoration:none;">The Design and Implementation of a
-High-Performance Active Network Node</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(120).pdf" style="text-decoration:none;">A Survey on Image Matting Techniques</a></li>  
    
  <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(121).pdf" style="text-decoration:none;">The Design, Implementation and Operation
 of an Email Pseudonym Server</a></li>   
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(122).pdf" style="text-decoration:none;">Reinventing Scheduling for Multicore Systems </a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(122).pdf" style="text-decoration:none;">Deep Relightable Textures </a></li>  
      
-<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(123).pdf" style="text-decoration:none;">Building Secure High-Performance Web Services with OKWS</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Graphics-Papers/blob/master/g(123).pdf" style="text-decoration:none;">Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss</a></li>  
    
  </ul>
    
